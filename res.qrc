@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/background.png</file>
+        <file>image/checkbutton.png</file>
+        <file>image/HelpButton.png</file>
+        <file>image/HelpBackground.png</file>
+        <file>image/HelpReturnButton.png</file>
+        <file>image/main.PNG</file>
+        <file>image/checkBattery.png</file>
+        <file>image/check.png</file>
+        <file>image/rwm.PNG</file>
+        <file>image/timer.jpg</file>
+        <file>image/alarm.png</file>
+        <file>image/offline.PNG</file>
+        <file>image/newB.jpg</file>
+        <file>image/nback.jpg</file>
+        <file>image/eback.jpg</file>
+    </qresource>
+</RCC>
